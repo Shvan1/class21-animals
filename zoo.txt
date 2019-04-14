@@ -1,3 +1,6 @@
 Girraffe
 Lion
 Deer
+Hippo
+Tiger
+Elephant
